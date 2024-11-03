@@ -130,10 +130,10 @@ Curso | Conteúdos
 
 Conhecer ferramentas como o Git o ajudará a organizar seus projetos de estudo. O GitHub - ou outras plataformas como BitBucket ou GitLab - pode ser muito útil para trabalhar remotamente e compartilhar os seus projetos com colegas, além de poder usá-lo como portfólio em futuras oportunidades de trabalho.  
 
-Curso | Conteúdos
-:-- | --: 
-[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | Git; GitHub; Controle de versão.
-[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão. | <--Esto fazendo este
+Curso | Conteúdos | Estato
+|---|---|---| 
+[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | Git; GitHub; Controle de versão. |
+[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão. | <--Esto fazendo este |
 
 # Currículo
 
