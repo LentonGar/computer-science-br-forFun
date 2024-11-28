@@ -133,7 +133,7 @@ Conhecer ferramentas como o Git o ajudará a organizar seus projetos de estudo. 
 Curso | Conteúdos | Estato
 |---|---|---| 
 [Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | Git; GitHub; Controle de versão. |
-[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão. | <--Esto fazendo este |
+[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão. | <--Estou fazendo este |
 
 # Currículo
 
